@@ -1,0 +1,1 @@
+Main%tab_file_order_divider%Entradas qvd%tab_file_order_divider%Exit script%tab_file_order_divider%Entradas extração%tab_file_order_divider%Seção%tab_file_order_divider%Entrada x%tab_file_order_divider%Saída 101%tab_file_order_divider%saida 104%tab_file_order_divider%saída 103%tab_file_order_divider%saída 102%tab_file_order_divider%Seção gerada automaticamente
